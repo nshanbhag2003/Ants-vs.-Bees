@@ -1,0 +1,1 @@
+This is a tower defense game, inspired by Plants vs. Zombies, where the user's ants must protect their queen from invasive bee colonies. We use object-oriented programming in order to define attributes for both ants and bees to create defense mechanisms along with varying levels of difficulty.  
